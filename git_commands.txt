@@ -1,0 +1,18 @@
+1 try { . "c:\Users\ankashya\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scr...
+git --version
+git init
+ls -a
+ls -l
+git status
+git add .\test.py
+git status
+git rm --cached test.py
+git status
+git commit -m "added testing file"
+git status
+git status
+git add .
+git status
+clear
+git commit -m "adding testing files"
+clear
