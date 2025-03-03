@@ -16,3 +16,10 @@ git status
 clear
 git commit -m "adding testing files"
 clear
+ git commit -m "added git_command files"
+ git status
+ git remote add origin https://github.com/Anurag00Kashyap/git-hub-devops.git
+ git remote -v
+ git remote set-url origin https://@github.com/Anurag00Kashyap/git-hub-devops.git
+ git remote -v
+ git push origin master
